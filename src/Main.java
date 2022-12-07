@@ -17,6 +17,5 @@ public class Main {
         EmployeeService.calculateMaximumSalaryPrint(employees);
         EmployeeService.averageSalaryPrint(employees);
         EmployeeService.employeesFullName(employees);
-
     }
-} 
+}
